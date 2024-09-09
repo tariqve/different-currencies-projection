@@ -11,7 +11,7 @@ This project models the number of currency units required to purchase a stable o
 The project is visualized using Matplotlib and NumPy to show how the purchasing power of each currency evolves over time.
 
 
-![[output.png]]
+![output.png](output.png)
 
 ## Graph Breakdown
 
