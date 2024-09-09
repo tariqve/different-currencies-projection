@@ -1,7 +1,3 @@
-Here’s a basic README file for your project:
-
----
-
 # Currency Comparison Over 20 Years
 
 ## Project Overview
@@ -24,3 +20,4 @@ The project is visualized using Matplotlib and NumPy to show how the purchasing 
 - Cryptocurrency: Cryptocurrency values are modeled with volatility (using a sine wave for short-term fluctuations) and general appreciation over time. Fewer units of cryptocurrency are needed as time passes due to its potential appreciation.
   
 - Gold-Backed Currency: Assumed to have low inflation (0.5% per year), the gold-backed currency remains a stable store of value. The increase in units required to buy the object is minimal compared to fiat.
+
