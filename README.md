@@ -11,9 +11,9 @@ This project models the number of currency units required to purchase a stable o
 The project is visualized using Matplotlib and NumPy to show how the purchasing power of each currency evolves over time.
 
 
-![output.png](output.png)
-
 ## Graph Breakdown
+
+![output.png](output.png)
 
 - Fiat Currency: In this simulation, fiat currency follows an annual inflation rate of 5%, which can be adjusted for different scenarios. Over time, you will need more fiat currency to buy the same object due to inflation.
   
